@@ -31,12 +31,12 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to BRIMO: http://localhost:${port}`);
-  console.log(`🔗 Powered By BRIMO`);
+  console.log(`🔗 Listening to Daser`);
+  console.log(`🔗 Dev By DASER`);
 });
 
 
-const statusMessages = ["Ramadhan Karim","Best Discord Bot"];
+const statusMessages = ["🔗 Dev By Dser","System Tickets Starz 🎫"];
 
 
 let currentIndex = 0;
